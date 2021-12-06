@@ -1,0 +1,3 @@
+C:/Users/Duarte/Desktop/aoc2021/three/cmake-build-debug/CMakeFiles/three.dir
+C:/Users/Duarte/Desktop/aoc2021/three/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Duarte/Desktop/aoc2021/three/cmake-build-debug/CMakeFiles/rebuild_cache.dir

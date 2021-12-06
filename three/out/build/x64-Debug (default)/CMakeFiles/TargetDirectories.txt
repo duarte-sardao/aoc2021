@@ -1,0 +1,3 @@
+C:/Users/Duarte/Desktop/aoc2021/three/out/build/x64-Debug (default)/CMakeFiles/three.dir
+C:/Users/Duarte/Desktop/aoc2021/three/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Duarte/Desktop/aoc2021/three/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Duarte/Desktop/aoc2021/four/code.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+
