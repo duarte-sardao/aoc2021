@@ -1,3 +1,0 @@
-C:/Users/Duarte/Desktop/aoc2021/four/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Duarte/Desktop/aoc2021/four/cmake-build-debug/CMakeFiles/four.dir
-C:/Users/Duarte/Desktop/aoc2021/four/cmake-build-debug/CMakeFiles/edit_cache.dir
